@@ -21,7 +21,7 @@ I'm an **Student🎓**. I'm a **Tech Enthusiast 💻** passionate about **learni
   <img align="center" alt="MD-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="MD-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="MD-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-  <img align="right" alt="MD-icon" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="MD-icon" height="150" style="border-radius:50px;" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/MD-icon.png">
 </div>
 
 ##
