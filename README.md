@@ -9,7 +9,7 @@ I'm an **Student🎓**. I'm a **Tech Enthusiast 💻** passionate about **learni
   <a href="https://instagram.com/mariaeduard4s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mariaeduardadearaujosilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/meas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://photos.app.goo.gl/GWadko5YKi4gFAPw6"/>
+  <img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/f8ddf4d7c0d350588d42ae5a865dabe2013a0198d9d4c212e2a8544307e3dc2c.0.jpg"/>
 </div>
 
 ##
