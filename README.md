@@ -13,7 +13,7 @@
 - 💼 Noções de C++ e conhecimento em Python, Java, JS, HTML, CSS, Lua.
 
 ## Meus Projetos 🚧
-- ([Projetos em Python]<a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank">)
+- (<a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank"> [Projetos em Python])
 - [Projetos em Java]<a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank">
 - [Projetos em HTML]<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">
 - [Projetos em CSS]<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">
