@@ -1,4 +1,4 @@
-# Oi! Eu sou a Maria Eduarda, estudante brasileira. 🚀🇧🇷
+## Oi! Eu sou a Maria Eduarda, estudante brasileira. 🚀🇧🇷
 
 Onde me encontrar: 📱
 <img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/md-pic.jpg"/>
@@ -15,12 +15,12 @@ Sobre Mim
 </br>
 
 Meus Projetos 🚧
-- <a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank">🐍 [Projetos em Python]</a>
-- <a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank" >☕ [Projetos em Java]</a> 
-- <a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">💻 [Projetos em HTML e CSS]</a> 
-- <a href="https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript" target="_blank">💻 [Projetos em JS]</a> 
-- <a href="https://github.com/MariaEduardaAraujo/Cplusplus-Projects" target="_blank">➕ [Projetos em C++]</a> 
-- <a href="https://github.com/MariaEduardaAraujo/Lua-Projects" target="_blank">🌕 [Projetos em Lua]</a>
+- 🐍 [Projetos em Python](https://github.com/MariaEduardaAraujo/Python-Projects)
+- ☕ [Projetos em Java](https://github.com/MariaEduardaAraujo/Java-Projects) 
+- 💻 [Projetos em HTML e CSS](https://github.com/MariaEduardaAraujo/HTML-Projects)
+- 💻 [Projetos em JS](https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript)
+- ➕ [Projetos em C++](https://github.com/MariaEduardaAraujo/Cplusplus-Projects)
+- 🌕 [Projetos em Lua](https://github.com/MariaEduardaAraujo/Lua-Projects)
 </br>
 
 Interesses 💻
