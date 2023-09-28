@@ -1,32 +1,40 @@
-## Hi, I'm Maria Eduarda, a Developer 🚀 from Brazil.
+# Oi! Eu sou a Maria Eduarda, estudante brasileira. 🚀🇧🇷
 
-### A little about me... ✨ 
-I'm an **Student🎓**. I'm a **Tech Enthusiast 💻** passionate about **learning**.<br/>
-
-##
-**Social medias:** 
+## Onde me encontrar: 📱
 <div> 
-  <a href="https://instagram.com/mariaeduard4s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mariaeduardadearaujosilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/meas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:mariaeduardadearaujosilva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/meas" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/md-pic.jpg"/>
 </div>
 
-##
-**Languages and Tools:** 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank"><img align="center" alt="MD-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank"><img align="center" alt="MD-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank"><img align="center" alt="MD-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank"><img align="center" alt="MD-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <a href="https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript" target="_blank"><img align="center" alt="MD-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <a href="https://github.com/MariaEduardaAraujo/Cplusplus-Projects" target="_blank"><img align="center" alt="MD-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <a href="https://github.com/MariaEduardaAraujo/Lua-Projects" target="_blank"><img align="center" alt="MD-Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-</div>
+## Sobre Mim
+- 🌍📍 Localização: Alagoas, Brasil
+- 👩‍💻🎓 Estudante de Tecnologia
+- 💼 Noções de C++ e conhecimento em Python, Java, JS, HTML, CSS, Lua.
+
+## Meus Projetos 🚧
+- [Projetos em Python](<a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank">)
+- [Projetos em Java](<a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank">)
+- [Projetos em HTML](<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">)
+- [Projetos em CSS](<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">)
+- [Projetos em JS](<a href="https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript" target="_blank">)
+- [Projetos em C++](<a href="https://github.com/MariaEduardaAraujo/Cplusplus-Projects" target="_blank">)
+- [Projetos em Lua]<a href="https://github.com/MariaEduardaAraujo/Lua-Projects" target="_blank">
+
+## Interesses 💻
+- Desenvolvimento de software, especialmente em aplicações web e inteligência artificial.
+- Explorar novas tecnologias e tendências.
+
+## Hobbies e Interesses Pessoais 📚
+- Adoro ler, especialmente sobre tecnologia e ciência.
+- Toco instrumentos musicais nas horas vagas.
+
+## Certificações ✔
+- Nenhuma certificação no momento, mas estou sempre em busca de oportunidades de aprendizado.
 
 ##
 <div align="center">
   <a href="https://github.com/mariaeduardaaraujo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariaeduardaaraujo&show_icons=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaaraujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
