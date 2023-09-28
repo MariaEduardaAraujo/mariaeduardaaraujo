@@ -13,13 +13,13 @@
 - 💼 Noções de C++ e conhecimento em Python, Java, JS, HTML, CSS, Lua.
 
 ## Meus Projetos 🚧
-- (<a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank"> [Projetos em Python])
-- [Projetos em Java]<a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank">
-- [Projetos em HTML]<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">
-- [Projetos em CSS]<a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">
-- [Projetos em JS]<a href="https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript" target="_blank">
-- [Projetos em C++]<a href="https://github.com/MariaEduardaAraujo/Cplusplus-Projects" target="_blank">
-- [Projetos em Lua] <a href="https://github.com/MariaEduardaAraujo/Lua-Projects" target="_blank">
+- <a href="https://github.com/MariaEduardaAraujo/Python-Projects" target="_blank">[Projetos em Python]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/Java-Projects" target="_blank">[Projetos em Java]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">[Projetos em HTML]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/HTML-Projects" target="_blank">[Projetos em CSS]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript" target="_blank">[Projetos em JS]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/Cplusplus-Projects" target="_blank">[Projetos em C++]</a> 
+- <a href="https://github.com/MariaEduardaAraujo/Lua-Projects" target="_blank">[Projetos em Lua]</a> 
 
 ## Interesses 💻
 - Desenvolvimento de software, especialmente em aplicações web e inteligência artificial.
