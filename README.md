@@ -10,8 +10,8 @@ Onde me encontrar: 📱
 
 Sobre Mim
 - 🌍📍 Localização: Alagoas, Brasil
-- 👩‍💻🎓 Estudante de Tecnologia
-- 💼 Noções de C++ e conhecimento em Python, Java, JS, HTML, CSS, Lua.
+- 👩‍💻🎓 Estudante de BSI
+- 💼 Noções de C++, MySQL e Lua e conhecimento em Python, Java, JS, HTML, CSS.
 </br>
 
 Meus Projetos 🚧
@@ -21,7 +21,7 @@ Meus Projetos 🚧
 - 💻 [Projetos em JS](https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript)
 - ➕ [Projetos em C++](https://github.com/MariaEduardaAraujo/Cplusplus-Projects)
 - 🌕 [Projetos em Lua](https://github.com/MariaEduardaAraujo/Lua-Projects)
-- 💻 [Imersão Dev](https://github.com/MariaEduardaAraujo/imersaodev-alura-)
+- 💻 [Imersão Alura](https://github.com/MariaEduardaAraujo/imersaodev-alura-)
 </br>
 
 Interesses 💻
@@ -32,6 +32,7 @@ Interesses 💻
 Hobbies e Interesses Pessoais 📚
 - Adoro ler, especialmente sobre tecnologia e ciência.
 - Toco instrumentos musicais nas horas vagas.
+- Faço crochê no meu tempo livre 🧵
 </br>
 
 Certificações ✔
