@@ -18,7 +18,7 @@ Meus Projetos 🚧
 - 🐍 [Projetos em Python](https://github.com/MariaEduardaAraujo/Python-Projects)
 - ☕ [Projetos em Java](https://github.com/MariaEduardaAraujo/Java-Projects) 
 - 💻 [Projetos em HTML e CSS](https://github.com/MariaEduardaAraujo/HTML-Projects)
-- 💻 [Projetos em JS](https://github.com/MariaEduardaAraujo/HTML-Projects/tree/main/JavaScript)
+- 💻 [Projetos em JS](https://github.com/MariaEduardaAraujo/html-projects/tree/main/Ensino%20Médio/JavaScript)
 - ➕ [Projetos em C++](https://github.com/MariaEduardaAraujo/Cplusplus-Projects)
 - 🌕 [Projetos em Lua](https://github.com/MariaEduardaAraujo/Lua-Projects)
 - 💻 [Imersão Alura](https://github.com/MariaEduardaAraujo/imersaodev-alura-)
