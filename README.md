@@ -1,7 +1,7 @@
 ## Oi! Eu sou a Maria Eduarda, estudante brasileira. 🚀🇧🇷
 
 Onde me encontrar: 📱
-<img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/md-pic.jpg"/>
+<img align="right" alt="MD-icon" height="150" style="border-radius:50px" src="https://github.com/MariaEduardaAraujo/mariaeduardaaraujo/blob/main/gif.gif"/>
 <div align="left"> 
   <a href = "mailto:mariaeduardadearaujosilva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/meas" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
