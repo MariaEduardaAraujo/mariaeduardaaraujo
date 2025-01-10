@@ -20,6 +20,7 @@ Meus Projetos 🚧
 - 💻 [Projetos em HTML/CSS/JS](https://github.com/MariaEduardaAraujo/HTML-Projects)
 - ➕ [Projetos em C e C++](https://github.com/MariaEduardaAraujo/Cplusplus-Projects)
 - 🌕 [Projetos em Lua](https://github.com/MariaEduardaAraujo/Lua-Projects)
+- 🐾 [Projetos em Go](https://github.com/MariaEduardaAraujo/go-projects)
 - 📓🔒 [Cursos](https://github.com/MariaEduardaAraujo/imersaodev-alura-)
 </br>
 
